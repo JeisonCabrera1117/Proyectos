@@ -28,5 +28,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "file:///home/jeisondaniel/Documentos/cursos/react_tow/curso-react-intro/build"
 }
