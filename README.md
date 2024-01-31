@@ -1,3 +1,15 @@
+# This is my proyect of TODO MACHINE
+This proyect was create with support of course "Curso de React.js" by platzi
+I learn diferents skills:
+
+    Persistence in memory.
+    search tasks by characters.
+    create new pending tasks.
+    mark tasks as completed.
+    delete tasks.
+
+
+
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
