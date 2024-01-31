@@ -1,4 +1,4 @@
-# This is my proyect of TODO MACHINE
+# This is my proyect TODO MACHINE
 This proyect was create with support of course "Curso de React.js" by platzi
 I learn diferents skills:
 
